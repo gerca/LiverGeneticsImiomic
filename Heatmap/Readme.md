@@ -1,1 +1,1 @@
-Code for heatmap plot figure 4. 
+Code for heatmap plot Figure 3. 
