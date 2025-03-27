@@ -1,1 +1,1 @@
-ADD TEXT
+This repository contains Python scripts used for voxel-wise Imiomics analysis in our study of liver fat and volume genetics. The code performs regression across >2 million 3D image voxels, generates collages and videos of association maps, and supports batch processing. Scripts include tools for handling parameters, producing visualizations, and automating analyses across sex-specific MRI data from the UK Biobank.
