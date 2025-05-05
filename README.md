@@ -1,4 +1,4 @@
-# Impact of genetic variants linked to liver fat and volume on MRI-mapped body composition
+# Impact of genetic variants linked to liver fat and liver volume on MRI-mapped body composition
 
 This repository includes analyses of GWAS, SNP selection, genetic correlations, gene prioritization, imaging-based associations, and trait associations. We identified independent SNPs using `COJO` and LD clumping, assessed genetic correlations with `LDSC`, and prioritized genes using `cS2G` and Open Targets Genetics. Fine mapping was performed with `CARMA`. Whole-body MRI data were analyzed using `Imiomics` to map liver-trait SNP associations with regional fat distribution. Finally, multivariable regression analysis examined associations between liver-associated variants (SNPs) and various biomarkers, alcohol intake, metabolic traits, and chronic liver disease outcomes. See the *Main* and *Supplementary Text* in the publication for full methodological and analytical details.
 
